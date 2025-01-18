@@ -1,1 +1,8 @@
 получившаяся ветка master и удаленная ветка demo ничем не отличаются друг от друга
+всего 6 комитов:
+human
+human
+dots
+README added
+boots
+init
