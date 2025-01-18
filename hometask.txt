@@ -1,12 +1,7 @@
 получившаяся ветка master и удаленная ветка demo ничем не отличаются друг от друга
-всего 10 комитов:
-hat
-hat
-hat
-hat
-human
-human
+всего 5 комитов:
 dots
 README added
 boots
+heat added
 init
